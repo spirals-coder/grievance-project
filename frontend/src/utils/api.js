@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // ✅ IMPORTANT: include /api in baseURL
 const API = axios.create({
-  baseURL: 'https://grievance-project-1-axzk.onrender.com/api',
+  baseURL: 'https://grievance-project-162.onrender.com/api',
 });
 
 // 🔐 Attach JWT token to every request
